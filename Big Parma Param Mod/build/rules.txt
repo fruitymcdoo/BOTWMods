@@ -1,0 +1,7 @@
+[Definition]
+titleIds = 00050000101C9300,00050000101C9400,00050000101C9500
+name = Big Parma Param Mod
+path = {BCML: DON'T TOUCH}/Big Parma Param Mod
+description = Lots of BIG param adjustments, extra bow slow time, faster bomb recharge, etc.
+version = 1
+url = https://i.imgur.com/goXFLvn.jpg

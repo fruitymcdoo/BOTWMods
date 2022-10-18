@@ -1,0 +1,62 @@
+!io
+version: 0
+type: xml
+param_root: !list
+  objects:
+    1639987860: !obj {
+      10806: content/Actor/Pack/Weapon_Sword_070.bactorpack//Actor/GeneralParamList/Weapon_Sword_070.bgparamlist
+    }
+  lists:
+    content/Actor/Pack/Weapon_Sword_070.bactorpack//Actor/GeneralParamList/Weapon_Sword_070.bgparamlist: !list
+      objects:
+        General: !obj {
+         Speed: 35.0,
+         Life: 240
+        }
+        Attack: !obj {
+          Power: 30,
+          Impulse: 6000,
+          ImpulseLarge: 6000,
+          Range: 3.0,
+          GuardBreakPower: 80,
+          SpHitRatio: 2.0
+        }
+        WeaponCommon: !obj {
+          PlayerEqScale: 1.0,
+          EnemyEqScale: 1.5,
+          GuardPower: 0,
+          IsWeakBreaker: false,
+          IsBlunt: false,
+          IsLuckyWeapon: false,
+          IsNotOnTerrorHold: false,
+          IsAsOffUnEquiped: false,
+          ChemicalEnergyMax: 0,
+          ChemicalEnergyAmountUsed: 0,
+          ChemicalEnergyRecoverRate: 0.0,
+          ChemicalEnergyRecoverInterval: 60,
+          StickDamage: 10,
+          ShootBeam: PlayerBeam
+        }
+        Rod: !obj {
+          MagicName: !str32 PlayerBeam,
+          ChargeMagicNum: 1,
+          ChargeMagicInterval: 0,
+          MagicPower: 60,
+          MagicSpeed: 100.0,
+          MagicSpeedByThrow: 100.0,
+          MagicGravity: 0.0,
+          MagicRadius: 1.0,
+          ScaleTime: 5,
+          MagicRange: 200.0
+        }
+        MasterSword: !obj {
+          IsMasterSword: true,
+          TrueFormAttackPower: 60,
+          TrueFormMagicPower: 120,
+          TrueFormBreakRatio: 0.0,
+          SearchEvilDist: 70.0,
+          RecoverTime: 1.0,
+          SleepActorName: !str64 Weapon_Sword_056,
+          TrueFormActorName: !str64 Weapon_Sword_072
+        }
+      lists: {}

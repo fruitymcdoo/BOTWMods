@@ -1,0 +1,35 @@
+!io
+version: 0
+type: ''
+param_root: !list
+  objects:
+    1639987860: !obj {6568: content/Pack/TitleBG.pack//Actor/Pack/Item_Magnetglove.sbactorpack//Actor/AIProgram/Magnetglove.baiprog}
+  lists:
+    content/Pack/TitleBG.pack//Actor/Pack/Item_Magnetglove.sbactorpack//Actor/AIProgram/Magnetglove.baiprog: !list
+      objects: {}
+      lists:
+        Action: !list
+          objects: {}
+          lists:
+            Action_0: !list
+              objects:
+                SInst: !obj
+                  MaxMagneForceRange: 100.0
+                  MinMagneForceRange: 0.0
+                  MagneControlSpeed: 2.0
+                  MagneForceRadius: 200.0
+                  MagneForceDamp: 0.15
+                  MagneForceVelRate: 8.0
+                  ObjectTerror: 8.0
+                  MagneShootSpeed: 4.0
+                  MagneControlRotateSpeed: 0.02
+                  MagneControlUpDownSpeed: 2.0
+                  ResistanceSpeedScale: 0.2
+                  MaxMagneHeight: 200.0
+                  CancelAngle: 1.5708
+                  CancelHeight: 100.0
+                  CancelAngleFixed: 3.14159
+                  CancelHeightFixed: 1000.0
+                  GyroUpDownSpeed: 0.2
+                  GyroRotateSpeed: 0.02
+              lists: {}

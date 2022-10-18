@@ -1,0 +1,22 @@
+{
+  "options": {
+    "multi": [],
+    "single": [
+      {
+        "name": "Big",
+        "desc": "Big Mode. Enlarges the Ice block and changes the shape into a fat cube.",
+        "options": {"folder": "1Big"}
+      },
+      {
+        "name": "Pillar",
+        "desc": "Pillar Mode. Turns the Ice Block into a Pillar, very tall and not very wide. Great for climbing.",
+        "options": {"folder": "2Pillar"}
+      },
+      {
+        "name": "Pad",
+        "desc": "Pad Mode. Squishes the Ice Block into a wide and flat pad. Perfect for riding horses or the master cycle over water.",
+        "options": {"folder": "3Pad"}
+      }
+    ]
+  }
+}

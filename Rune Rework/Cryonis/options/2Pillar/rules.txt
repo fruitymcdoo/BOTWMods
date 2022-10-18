@@ -1,0 +1,6 @@
+[Definition]
+titleIds = 00050000101C9300,00050000101C9400,00050000101C9500
+name = Rune Rework - Cryonis (Pillar)
+path = The Legend of Zelda: Breath of the Wild/Mods/Rune Rework - Cryonis (Pillar)
+description = Pillar option for the Cryonis version of Rune Rework.
+version = 4

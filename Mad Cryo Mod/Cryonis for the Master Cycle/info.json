@@ -1,0 +1,12 @@
+{
+  "name": "Cryonis for the Master Cycle",
+  "image": "",
+  "url": "",
+  "desc": "Changes the shape of Cryonis to work with the Master Cycle. Best paired with my Mad Mastar'd Master Cycle mod to help traverse lakes safely on the Master CYcle!",
+  "version": "1.0",
+  "options": {},
+  "depends": [],
+  "showCompare": false,
+  "showConvert": false,
+  "platform": "wiiu"
+}

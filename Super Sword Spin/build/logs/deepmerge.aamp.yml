@@ -1,0 +1,33 @@
+!io
+version: 0
+type: ''
+param_root: !list
+  objects:
+    1639987860: !obj {76892: content/Pack/TitleBG.pack//Actor/Pack/GameROMPlayer.sbactorpack//Actor/AIProgram/Player_Link.baiprog}
+  lists:
+    content/Pack/TitleBG.pack//Actor/Pack/GameROMPlayer.sbactorpack//Actor/AIProgram/Player_Link.baiprog: !list
+      objects: {}
+      lists:
+        Action: !list
+          objects: {}
+          lists:
+            Action_98: !list
+              objects:
+                Def: !obj {Name: 大剣回転斬り, ClassName: !str32 PlayerCutTurnLSword, GroupName: 攻撃}
+                SInst: !obj
+                  EnergyMove: 30.0
+                  EnergyLastAttack: 0.0
+                  MaxSpeedF: 0.25
+                  MaxTime: 150.0
+                  AccSpeed: 0.006
+                  DecSpeed: 0.010
+                  SpAttackRadiusMin: 0.5
+                  SpAttackRadiusMax: 12.0
+                  SpAttackRadiusAdd: 0.2
+                  SpAttackCheckUnderDist: 1.0
+                  EnergyChargeStart: 25.0
+                  SpLargeAttackRadius: 8.0
+                  RumbleType: 4
+                  RumblePowerMin: 1.0
+                  RumblePowerMax: 2.0
+              lists: {}

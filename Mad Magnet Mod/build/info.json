@@ -1,0 +1,12 @@
+{
+  "name": "Mad Magnet Mod",
+  "image": "",
+  "url": "",
+  "desc": "Makes Magnesis Better",
+  "version": "1b",
+  "options": {},
+  "depends": [],
+  "showCompare": false,
+  "showConvert": false,
+  "platform": "wiiu"
+}

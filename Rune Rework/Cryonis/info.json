@@ -1,0 +1,31 @@
+{
+  "name": "Rune Rework - Cryonis",
+  "image": "",
+  "url": "",
+  "desc": "Part 1 of my Rune Rework series. Adds new options for the shape of the Cryonis ice block. Choose from Big, Pillar, and Pad options. Big enlarges the Ice Block significantly and changes the shape to a fat cube. Pillar makes it a lot toller but not much wider. Pad makes the block very short, but very wide. Pad mode allows Horses and the Master Cycle to traverse lakes with Cryonis.",
+  "version": "1b",
+  "options": {
+    "multi": [],
+    "single": {
+      {
+        "name": "Big",
+        "desc": "Big Mode. Enlarges the Ice block and changes the shape into a fat cube.",
+        "options": {"folder": "1Big"}
+      },
+      {
+        "name": "Pillar",
+        "desc": "Pillar Mode. Turns the Ice Block into a Pillar, very tall and not very wide. Great for climbing.",
+        "options": {"folder": "2Pillar"}
+      },
+      {
+        "name": "Pad",
+        "desc": "Pad Mode. Squishes the Ice Block into a wide and flat pad. Perfect for riding horses or the master cycle over water.",
+        "options": {"folder": "3Pad"}
+      }
+    }
+  },
+  "depends": [],
+  "showCompare": false,
+  "showConvert": false,
+  "platform": "wiiu"
+}

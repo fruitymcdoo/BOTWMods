@@ -1,0 +1,32 @@
+!io
+version: 0
+type: ''
+param_root: !list
+  objects:
+    1639987860: !obj {76892: content/Pack/TitleBG.pack//Actor/Pack/GameROMPlayer.sbactorpack//Actor/AIProgram/Player_Link.baiprog,
+    144996419: content/Actor/Pack/Weapon_Shield_030.sbactorpack//Actor/GeneralParamList/Weapon_Shield_030.bgparamlist}
+  lists:
+    content/Pack/TitleBG.pack//Actor/Pack/GameROMPlayer.sbactorpack//Actor/AIProgram/Player_Link.baiprog: !list
+      objects: {}
+      lists:
+        Action: !list
+          objects: {}
+          lists:
+            Action_74: !list
+              objects:
+                SInst: !obj
+                  EnergyMove: 1.0
+                  MaxSpeed: 0.8
+                  JumpSpeedF: 0.6
+                  ContJumpSpeedF: 0.4
+                  JumpHeight: 2.0
+                  ContJumpInterval: 60.0
+                  ShieldBreakHeight: 20.0
+                  FinishSpeed: 1.0
+                  MaxJumpSpeed: 0.20
+                  LandSEOnInAirFrame: 5.0
+              lists: {}
+    content/Actor/Pack/Weapon_Shield_030.sbactorpack//Actor/GeneralParamList/Weapon_Shield_030.bgparamlist: !list
+      objects:
+        Shield: !obj {RideBreakRatio: 0.0, SurfingFriction: -0.000001}
+      lists: {}

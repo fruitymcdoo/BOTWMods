@@ -1,0 +1,12 @@
+{
+  "name": "Super Sword Spin",
+  "image": "",
+  "url": "",
+  "desc": "Makes the Large Sword Spin Attack stronger in every way.",
+  "version": "1b",
+  "options": {},
+  "depends": [],
+  "showCompare": false,
+  "showConvert": false,
+  "platform": "wiiu"
+}

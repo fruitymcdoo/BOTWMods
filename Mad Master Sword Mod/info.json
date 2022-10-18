@@ -1,0 +1,12 @@
+{
+  "name": "Mad Master Sword Mod",
+  "image": "",
+  "url": "",
+  "desc": "Make the Master Sword more powerful!",
+  "version": "1b",
+  "options": {},
+  "depends": [],
+  "showCompare": false,
+  "showConvert": false,
+  "platform": "wiiu"
+}
