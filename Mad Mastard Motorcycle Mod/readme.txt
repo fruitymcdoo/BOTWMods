@@ -1,3 +1,5 @@
+THIS MOD IS FOR THE CEMU WIIU EMULATOR!
+
 Crank the Master Cycle up to 200! Reworks the Master Cycle's physics and parameters to take the Master Cycle to the next level.  
 
 Enhanced mobility allows the MAD Master'd Cycle to CLIMB MOUNTAINS and TRAVERSE LAKES.  
