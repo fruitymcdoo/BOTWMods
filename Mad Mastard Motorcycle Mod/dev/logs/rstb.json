@@ -1,0 +1,8 @@
+{
+  "content/Actor/Pack/GameROMMotorcycle.sbactorpack//Actor/ActorLink/GameROMMotorcycle.bxml": 1940,
+  "content/Actor/Pack/GameROMMotorcycle.sbactorpack//Actor/GeneralParamList/GameROMMotorcycle.bgparamlist": 4836,
+  "content/Actor/Pack/GameROMMotorcycle.sbactorpack//Actor/Physics/GameROMMotorcycle.bphysics": 67416,
+  "content/Actor/Pack/GameROMMotorcycle.sbactorpack//Actor/AttClient/GameROMMotorcycle_Ride.batcl": 2840,
+  "content/Actor/Pack/GameROMMotorcycle.sbactorpack//Actor/AttClient/GameROMMotorcycle_Ride2.batcl": 2712,
+  "content/Actor/Pack/GameROMMotorcycle.sbactorpack//Actor/AIProgram/GameROMMotorcycle.baiprog": 8172
+}
