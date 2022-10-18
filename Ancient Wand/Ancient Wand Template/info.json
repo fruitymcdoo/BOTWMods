@@ -1,0 +1,13 @@
+{
+  "name": "Ancient Wand",
+  "image": "",
+  "url": "",
+  "desc": "Ancient Wand is a new modded BOTW weapon which fills in the missing Wand category for Ancient Weapons. Adds a lore friendly GuardianBeam weapon to the game.",
+  "version": "1b",
+  "options": {},
+  "depends": [],
+  "showCompare": false,
+  "showConvert": false,
+  "id": "",
+  "platform": "wiiu"
+}

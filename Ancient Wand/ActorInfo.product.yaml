@@ -1,0 +1,70 @@
+Version: 2
+IsBigEndian: False
+SupportPaths: False
+HasReferenceNodes: False
+root:
+  Actors:
+    aabbMax: {X: 116.40000, Y: 34.52230, Z: 116.40000}
+    aabbMin: {X: -116.40000, Y: -0.25514, Z: -116.40000}
+    attackPower: !l 0
+    bfres: Weapon_Wand_Ancient
+    boundingForTraverse: 0.25509
+    bugMask: !l 3
+    cursorOffsetY: 0.30000
+    elink: Weapon_Wand_Ancient
+    generalLife: !l 14
+    homeArea:
+      - {name: WestHateru}
+      - {name: HyruleHill}
+      - {name: LanayruWetlands}
+    instSize: !l 79972
+    itemBuyingPrice: !l 120
+    itemCreatingPrice: !l -1
+    itemSaleRevivalCount: !l -1
+    itemSellingPrice: !l 18
+    itemStainColor: !l -1
+    itemUseIconActorName: Weapon_Wand_Ancient
+    mainModel: Weapon_Wand_Ancient
+    name: Weapon_Wand_Ancient
+    pictureBookLiveSpot1: !l -1
+    pictureBookLiveSpot2: !l -1
+    pictureBookSpecialDrop: !l -1
+    profile: WeaponSmallSword
+    slink: Weapon_Sword_Elec
+    sortKey: !l 11580
+    systemIsGetItemSelf: false
+    systemSameGroupActorName: 
+    tags:
+      tag2755f107: !l 659943687
+      tag289f28b5: !l 681519285
+      tag2cef9fdc: !l 753901532
+      tagb0c9e79a: !u 2966022042
+      tagb51794dc: !u 3038221532
+      tage0194f30: !u 3759755056
+    traverseDist: 80.00000
+    weaponCommonGuardPower: !l 0
+    weaponCommonPoweredSharpAddAtkMax: !l 8
+    weaponCommonPoweredSharpAddAtkMin: !l 4
+    weaponCommonPoweredSharpAddLifeMax: !l 7
+    weaponCommonPoweredSharpAddLifeMin: !l 4
+    weaponCommonPoweredSharpAddRapidFireMax: 1.00000
+    weaponCommonPoweredSharpAddRapidFireMin: 1.00000
+    weaponCommonPoweredSharpAddSpreadFire: false
+    weaponCommonPoweredSharpAddSurfMaster: false
+    weaponCommonPoweredSharpAddThrowMax: 1.00000
+    weaponCommonPoweredSharpAddThrowMin: 1.00000
+    weaponCommonPoweredSharpAddZoomRapid: false
+    weaponCommonPoweredSharpWeaponAddGuardMax: !l 0
+    weaponCommonPoweredSharpWeaponAddGuardMin: !l 0
+    weaponCommonRank: !l 0
+    weaponCommonSharpWeaponAddAtkMax: !l 3
+    weaponCommonSharpWeaponAddAtkMin: !l 3
+    weaponCommonSharpWeaponAddCrit: true
+    weaponCommonSharpWeaponAddGuardMax: !l 0
+    weaponCommonSharpWeaponAddGuardMin: !l 0
+    weaponCommonSharpWeaponAddLifeMax: !l 3
+    weaponCommonSharpWeaponAddLifeMin: !l 2
+    weaponCommonSharpWeaponPer: 10.00000
+    weaponCommonStickDamage: !l 10
+    xlink: Rod
+    yLimitAlgorithm: NoLimit

@@ -1,0 +1,6 @@
+[Definition]
+titleIds = 00050000101C9300,00050000101C9400,00050000101C9500
+name = "Ancient Rod"
+path = "The Legend of Zelda: Breath of the Wild/Mods/Ancient Rod"
+description = "Ancient Wand is a new modded BOTW weapon which fills in the missing Wand category for Ancient Weapons. Adds a lore friendly GuardianBeam weapon to the game."
+version = 4

@@ -1,0 +1,12 @@
+{
+  "name": "Ancient Trident",
+  "image": "",
+  "url": "",
+  "desc": "Turn the Ancient Spear into a powerful beam-shooting Trident!",
+  "version": "1b",
+  "options": {},
+  "depends": [],
+  "showCompare": false,
+  "showConvert": false,
+  "platform": "wiiu"
+}

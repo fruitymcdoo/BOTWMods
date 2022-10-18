@@ -1,0 +1,140 @@
+bool_array_data:
+  add: {}
+  del: []
+bool_data:
+  add:
+    IsGet_Weapon_Wand_Ancient:
+      DataName: IsGet_Weapon_Wand_Ancient
+      DeleteRev: -1
+      HashValue: -1075625356
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: true
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: true
+      MinValue: false
+      ResetType: 0
+    IsNewPictureBook_Weapon_Wand_Ancient:
+      DataName: IsNewPictureBook_Weapon_Wand_Ancient
+      DeleteRev: -1
+      HashValue: -3079217384
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: false
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: true
+      MinValue: false
+      ResetType: 0
+    IsRegisteredPictureBook_Weapon_Wand_Ancient:
+      Category: 5
+      DataName: IsRegisteredPictureBook_Weapon_Wand_Ancient
+      DeleteRev: -1
+      HashValue: -241783600
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: false
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: true
+      MinValue: false
+      ResetType: 0
+  del: []
+f32_array_data:
+  add: {}
+  del: []
+f32_data:
+  add: {}
+  del: []
+s32_array_data:
+  add: {}
+  del: []
+s32_data:
+  add:
+    EquipTime_Weapon_Wand_Ancient:
+      DataName: EquipTime_Weapon_Wand_Ancient
+      DeleteRev: -1
+      HashValue: -992045259
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: false
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: 6947483647
+      MinValue: 0
+      ResetType: 0
+    PictureBookSize_Weapon_Wand_Ancient:
+      DataName: PictureBookSize_Weapon_Wand_Ancient
+      DeleteRev: -1
+      HashValue: -1276095051
+      InitValue: -1
+      IsEventAssociated: false
+      IsOneTrigger: false
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: 65536
+      MinValue: -1
+      ResetType: 0
+    PorchTime_Weapon_Wand_Ancient:
+      DataName: PorchTime_Weapon_Wand_Ancient
+      DeleteRev: -1
+      HashValue: -2087124417
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: false
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: 2147483647
+      MinValue: 0
+      ResetType: 0
+    dummy:
+      DataName: dummy
+      DeleteRev: -1
+      HashValue: -2953514433
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: false
+      IsProgramReadable: false
+      IsProgramWritable: false
+      IsSave: false
+      MaxValue: 0
+      MinValue: 0
+      ResetType: 0
+  del: []
+string256_array_data:
+  add: {}
+  del: []
+string256_data:
+  add: {}
+  del: []
+string64_array_data:
+  add: {}
+  del: []
+string64_data:
+  add: {}
+  del: []
+string_data:
+  add: {}
+  del: []
+vector2f_array_data:
+  add: {}
+  del: []
+vector2f_data:
+  add: {}
+  del: []
+vector3f_array_data:
+  add: {}
+  del: []
+vector3f_data:
+  add: {}
+  del: []
+vector4f_data:
+  add: {}
+  del: []

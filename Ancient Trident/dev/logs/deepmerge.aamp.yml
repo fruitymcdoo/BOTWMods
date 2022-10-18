@@ -1,0 +1,81 @@
+!io
+version: 0
+type: ''
+param_root: !list
+  objects:
+    1639987860: !obj {
+      2224: content/Actor/Pack/Weapon_Spear_023.sbactorpack//Actor/ActorLink/Weapon_Spear_023.bxml,
+      5968: content/Actor/Pack/Weapon_Spear_023.sbactorpack//Actor/GeneralParamList/Weapon_Spear_023.bgparamlist,
+      9964: content/Actor/Pack/Weapon_Spear_023.sbactorpack//Actor/AIProgram/Spear.baiprog
+    }
+  lists:
+    content/Actor/Pack/Weapon_Spear_023.sbactorpack//Actor/AIProgram/Spear.baiprog: !list
+      objects: {}
+      lists:
+        AI: !list
+          objects: {}
+          lists:
+            AI_3: !list
+              objects:
+                Def: !obj {Name: 通常, ClassName: !str32 RodRoot, GroupName: BaseAI}
+                SInst: !obj {BlinkFrame: 100.0, FallOutSpeed: 0.0, LandNoiseLevel: 0.0}
+              lists: {}
+        Action: !list
+          objects: {}
+          lists:
+            Action_11: !list
+              objects:
+                Def: !obj {Name: 抜刀, ClassName: !str32 EquipedRod, GroupName: 装備中}
+                SInst: !obj {
+                  MagicCreateYOffset: 1.0,
+                  MagicShootVelOffset: !vec3 [0.0, 0.0, 0.0],
+                  IsAxisYTop: false,
+                  IsCreateWeaponPosOffset: true,
+                  CreatePosOffset: !vec3 [0.0, 0.0, 0.0],
+                  AxisYAngle: 0.0
+                }
+              lists: {}
+    content/Actor/Pack/Weapon_Spear_023.sbactorpack//Actor/ActorLink/Weapon_Spear_023.bxml: !list
+      objects:
+        LinkTarget: !obj {XlinkUser: Rod}
+        1115720914: !obj {542845746: GetItemLightWeight, 1465654180: UniqueSeries, 3461696030: RodWeapon}
+      lists: {}
+    content/Actor/Pack/Weapon_Spear_023.sbactorpack//Actor/GeneralParamList/Weapon_Spear_023.bgparamlist: !list
+      objects:
+        General: !obj {Speed: 1.0, Life: 20, IsLifeInfinite: true}
+        Attack: !obj {
+          Power: 20,
+          Impulse: 2000.0,
+          ImpulseLarge: 2000.0,
+          Range: 5.0,
+          GuardBreakPower: 200,
+          SpHitRatio: 1.3
+        }
+        WeaponCommon: !obj {
+          PlayerEqScale: 1.0,
+          IsThrowingWeapon: false,
+          IsThrowingBreakWeapon: false,
+          ChemicalEnergyMax: 100,
+          ChemicalEnergyAmountUsed: 0,
+          ChemicalEnergyRecoverRate: 0.0,
+          ChemicalEnergyRecoverInterval: 60,
+          StickDamage: 10,
+          ShootBeam: GuardianMiniBeam
+        }
+        Rod: !obj {
+          MagicName: !str32 GuardianMiniBeam,
+          ChargeMagicNum: 100,
+          ChargeMagicInterval: 0,
+          MagicPower: 10,
+          MagicSpeed: 100.0,
+          MagicSpeedByThrow: 100.0,
+          MagicGravity: 0.0,
+          MagicRadius: 1.0,
+          ScaleTime: 1,
+          MagicRange: 1000.0
+        }
+        ClothReaction: !obj {
+          AtkCollidableSpeed: 6.0,
+          AtkCollidableActiveTime: 0.5
+        }
+      lists: {}
